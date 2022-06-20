@@ -1,3 +1,10 @@
 .github/**
+<<<<<<< HEAD
 Git Commands Documentation.docx
 README.md
+||||||| 06513a5
+=======
+Git Commands Documentation.docx
+README.md
+*.csv
+>>>>>>> master
