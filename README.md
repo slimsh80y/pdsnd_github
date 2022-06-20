@@ -1,17 +1,14 @@
->**Note**: Please **fork** the current Udacity repository so that you will have a **remote** repository in **your** Github account. Clone the remote repository to your local machine. Later, as a part of the project "Post your Work on Github", you will push your proposed changes to the remote repository in your Github account.
+Date this project was made
+6/19/2022
 
-### Date created
-Include the date you created this project and README file.
+Project Title
+pdsnd_github
 
-### Project Title
-Replace the Project Title
+Description of this Project
+This is a program that organizes and sorts thorough US bikeshare data.
 
-### Description
-Describe what your project is about and what it does
+Files used
+.gitignore Git Commands Documentation.docx README.md .github
 
-### Files used
-Include the files used
-
-### Credits
-It's important to give proper credit. Add links to any repo that inspired you or blogposts you consulted.
-
+Credits
+https://github.com/udacity/pdsnd_github
