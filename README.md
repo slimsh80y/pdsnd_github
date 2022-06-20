@@ -6,7 +6,7 @@
 ### Project Title
 pdsnd_github
 
-### Project Description
+### Description of this Project
 This is a program that organizes and sorts thorough US bikeshare data.
 ### Files used
 .gitignore
