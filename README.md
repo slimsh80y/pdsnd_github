@@ -1,12 +1,12 @@
 
 
-### Date created
+### Date this project was made 
 6/19/2022
 
 ### Project Title
 pdsnd_github
 
-### Description
+### Project Description
 This is a program that organizes and sorts thorough US bikeshare data.
 ### Files used
 .gitignore
